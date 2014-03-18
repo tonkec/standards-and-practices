@@ -67,6 +67,7 @@ Format:
 | Angela Sheu | [angelasheu](https://github.com/angelasheu) ||
 | Anna Mach | [amach](https://github.com/amach) ||
 | Anthony Gargiulo | [agargiulo](https://github.com/agargiulo) ||
+| Antonija Šimić | [Tonkec] (https://github.com/Tonkec/) || Self-taught programmer with no experience. Ruby enthusiast. Iterested in contributing and working with team. ||
 | Armand Halbert | [ahalbert](https://github.com/ahalbert) ||
 | Arne Fostvedt | [arn-e](https://github.com/arn-e) ||
 | Ash Courchene | [Acour83](https://github.com/Acour83) ||
